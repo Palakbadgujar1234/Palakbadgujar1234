@@ -3,8 +3,10 @@ pipeline
     agent any 
     stages
     {
+     stage {
      steps {
         echo " Simple code that shows the intigration of jenkins & github"
      }
+}
     }
 }
