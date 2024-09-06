@@ -6,7 +6,7 @@ pipeline
         stage("stage 1111")
         {
             steps{
-                echo "This stage 1"
+                echo "This stage 1, It oooooookkkkk"
             }
         }
 
