@@ -3,10 +3,10 @@ pipeline
     agent any 
     stages
     {
-        stage("stage 1111")
+        stage("Thi is stage of Palak Badgujar")
         {
             steps{
-                echo "This stage 1, It oooooookkkkk"
+                echo "This stage 1, It oooooookkkkk Palak badgujar "
             }
         }
 
