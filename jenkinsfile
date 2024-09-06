@@ -1,0 +1,10 @@
+pipeline 
+{
+    agent any 
+    stages
+    {
+     steps {
+        echo " Simple code that shows the intigration of jenkins & github"
+     }
+    }
+}
