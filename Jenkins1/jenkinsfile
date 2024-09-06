@@ -1,12 +1,24 @@
-pipeline 
+pipeline
 {
     agent any 
     stages
     {
-     stage {
-     steps {
-        echo " Simple code that shows the intigration of jenkins & github"
-     }
-}
+        stage("stage 1")
+        {
+            steps{
+                echo "This stage 1"
+            }
+        }
+
+        stage ("Stage 2")
+        {
+        steps
+        {
+            echo "This is stage 2"
+    
+        }
+        }
+            
+        
     }
 }
