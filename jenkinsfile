@@ -8,6 +8,7 @@ pipeline
         echo " Simple code that shows the intigration of jenkins & github"
         echo "Protection rules for main branch"
         echo "Added one more pull request"
+        echo "Creating the pull request from the CLI"
      }
     }
 }
