@@ -7,6 +7,7 @@ pipeline
         echo "Hello Protection rule"
         echo " Simple code that shows the intigration of jenkins & github"
         echo "Protection rules for main branch"
+        echo "Added one more pull request"
      }
     }
 }
