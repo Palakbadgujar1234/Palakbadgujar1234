@@ -5,6 +5,7 @@ pipeline
     {
      steps {
         echo " Simple code that shows the intigration of jenkins & github"
+        echo "added new chanhes in the files to perform the hotfix"
      }
     }
 }
