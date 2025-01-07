@@ -4,6 +4,7 @@ pipeline
     stages
     {
      steps {
+        echo "Hello Protection rule"
         echo " Simple code that shows the intigration of jenkins & github"
      }
     }
